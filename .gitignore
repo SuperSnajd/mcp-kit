@@ -1,0 +1,19 @@
+﻿# OS
+Thumbs.db
+.DS_Store
+
+# Env & secrets
+.env
+.env.*
+!.env.example
+
+# Python / Node / .NET / misc
+__pycache__/
+*.pyc
+node_modules/
+dist/
+build/
+bin/
+obj/
+*.user
+*.suo
